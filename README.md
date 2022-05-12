@@ -1,5 +1,6 @@
 WebApplication3
 
+https://dev.to/eduardstefanescu/aspnet-core-swagger-documentation-with-bearer-authentication-40l6
 https://www.infoworld.com/article/3650668/implement-authorization-for-swagger-in-aspnet-core-6.html
 
 builder.Services.AddSwaggerGen(option =>
